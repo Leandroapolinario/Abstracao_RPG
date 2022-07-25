@@ -1,0 +1,15 @@
+C:\Users\Cpiochi\Desktop\DIO\Geração Tech Unimed\Abstracao_RPG\src\obj\Debug\net6.0\Abstracao_RPG.csproj.AssemblyReference.cache
+C:\Users\Cpiochi\Desktop\DIO\Geração Tech Unimed\Abstracao_RPG\src\obj\Debug\net6.0\Abstracao_RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cpiochi\Desktop\DIO\Geração Tech Unimed\Abstracao_RPG\src\obj\Debug\net6.0\Abstracao_RPG.AssemblyInfoInputs.cache
+C:\Users\Cpiochi\Desktop\DIO\Geração Tech Unimed\Abstracao_RPG\src\obj\Debug\net6.0\Abstracao_RPG.AssemblyInfo.cs
+C:\Users\Cpiochi\Desktop\DIO\Geração Tech Unimed\Abstracao_RPG\src\obj\Debug\net6.0\Abstracao_RPG.csproj.CoreCompileInputs.cache
+C:\Users\Cpiochi\Desktop\DIO\Geração Tech Unimed\Abstracao_RPG\src\bin\Debug\net6.0\Abstracao_RPG.exe
+C:\Users\Cpiochi\Desktop\DIO\Geração Tech Unimed\Abstracao_RPG\src\bin\Debug\net6.0\Abstracao_RPG.deps.json
+C:\Users\Cpiochi\Desktop\DIO\Geração Tech Unimed\Abstracao_RPG\src\bin\Debug\net6.0\Abstracao_RPG.runtimeconfig.json
+C:\Users\Cpiochi\Desktop\DIO\Geração Tech Unimed\Abstracao_RPG\src\bin\Debug\net6.0\Abstracao_RPG.dll
+C:\Users\Cpiochi\Desktop\DIO\Geração Tech Unimed\Abstracao_RPG\src\bin\Debug\net6.0\Abstracao_RPG.pdb
+C:\Users\Cpiochi\Desktop\DIO\Geração Tech Unimed\Abstracao_RPG\src\obj\Debug\net6.0\Abstracao_RPG.dll
+C:\Users\Cpiochi\Desktop\DIO\Geração Tech Unimed\Abstracao_RPG\src\obj\Debug\net6.0\refint\Abstracao_RPG.dll
+C:\Users\Cpiochi\Desktop\DIO\Geração Tech Unimed\Abstracao_RPG\src\obj\Debug\net6.0\Abstracao_RPG.pdb
+C:\Users\Cpiochi\Desktop\DIO\Geração Tech Unimed\Abstracao_RPG\src\obj\Debug\net6.0\Abstracao_RPG.genruntimeconfig.cache
+C:\Users\Cpiochi\Desktop\DIO\Geração Tech Unimed\Abstracao_RPG\src\obj\Debug\net6.0\ref\Abstracao_RPG.dll
